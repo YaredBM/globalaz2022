@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'mi-primera-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE268CA6836B4F6E82D9CE441A710E5D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D417748E6D1043D9956C3A94E8BF91BA }}
           package: .
